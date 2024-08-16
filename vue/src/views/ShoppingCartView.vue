@@ -150,7 +150,7 @@
 <footer class="container-fluid text-center">
   <p>&copy; 2024 Sloppy Jo's Pizza. All rights reserved.</p>
 </footer>
->>>>>>> a8aabb3262f5afecbacd992b3e7d1c21a7249013
+
   </body>
 </template>
 
